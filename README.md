@@ -1,3 +1,3 @@
 # employee_exit_surveys
  
-Part of a course
+Part of a course.
